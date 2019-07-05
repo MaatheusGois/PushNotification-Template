@@ -3,9 +3,8 @@
 
 
 <br>
-<p align="center">
-    <img src="./logo.jpeg" width="200" height="432.85"/>
-</p>
+
+<img src="./logo.jpeg" width="200" height="432.85"/>
 
 
 ## Dependencies
@@ -29,6 +28,5 @@ $ npm install
 $ npm start
 ```
 
-<p align="center">
-    <b>Thank for watch!</b>
-</p>
+## Thank for watch!
+
