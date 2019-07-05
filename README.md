@@ -9,17 +9,24 @@
 - NodeJS:
     - [node-apn](https://github.com/node-apn/node-apn)
 
-### Instalando
+### Installing
 
-Para rodar o servidor precisamos entrar na pasta que contém o arquivo `package.json`. 
-1. Instalando as dependências do NodeJS:
+For run the server we can go the folder with have the file `package.json`. 
+
+1. Installing NodeJs dependecies:
 
 ```shell
 $ npm install
 ```
 
-2. Rodando o Servidor:
+2. Run the Server:
 
 ```shell
 $ npm start
 ```
+
+### Result
+
+In the end we have:
+
+<img src="./logo.jpeg" width="200" height="432.85" />
