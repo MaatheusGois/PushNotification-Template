@@ -1,15 +1,19 @@
-# PushNotification-Template
-### PushNotification with server in NodeJs.
+# PushNotification with NodeJs Server.
+**PushNotification-Template** is a project for learning how to make PushNotifications.
 
 
-**PushNotification-Template** is a project for learning how make PushNotifications.
+<br>
+<p align="center">
+    <img src="./logo.jpeg" width="200" height="432.85"/>
+</p>
 
-### Dependencies
+
+## Dependencies
 
 - NodeJS:
     - [node-apn](https://github.com/node-apn/node-apn)
 
-### Installing
+## Installing
 
 For run the server we can go the folder with have the file `package.json`. 
 
@@ -25,8 +29,6 @@ $ npm install
 $ npm start
 ```
 
-### Result
-
-In the end we have:
-
-<img src="./logo.jpeg" width="200" height="432.85" />
+<p align="center">
+    <b>Thank for watch!</b>
+</p>
